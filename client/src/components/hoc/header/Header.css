@@ -1,0 +1,10 @@
+.top-header-logo {
+  width: 100vw;
+  height: 55px;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  padding-top: 15px;
+  font-size: 24pt;
+  text-shadow: 2px 2px greenyellow;
+  color: white;
+}
