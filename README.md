@@ -1,6 +1,6 @@
-# Restaurant review demo
+# R rev demo
 
-Restaurant review prototype project
+R rev prototype project
 
 ---
 
